@@ -1,0 +1,12 @@
+{
+  "name": "example0",
+  "version": "1.0.0",
+  "description": "How to create a Node.js module",
+  "main": "./bin/example.node",
+  "scripts": {
+    "test": "node test.js",
+    "postinstall": "node postinstall.js"
+  },
+  "author": "Georgia Dimaki",
+  "license": "ISC"
+}
