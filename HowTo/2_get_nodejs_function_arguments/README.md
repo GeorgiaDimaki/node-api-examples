@@ -1,4 +1,4 @@
-# How to read Node.js function arguments
+# How to get Node.js function arguments
 
 ## Use Case Description
 

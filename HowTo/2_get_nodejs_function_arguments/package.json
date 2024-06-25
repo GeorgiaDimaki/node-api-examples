@@ -1,7 +1,7 @@
 {
   "name": "example2",
   "version": "1.0.0",
-  "description": "How to read Node.js function arguments",
+  "description": "How to get Node.js function arguments",
   "main": "./bin/example.node",
   "scripts": {
     "test": "node test.js",
