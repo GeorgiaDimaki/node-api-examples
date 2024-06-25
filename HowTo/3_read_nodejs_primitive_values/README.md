@@ -24,3 +24,8 @@ To summarize, to read the napi_value arguments of a function you can:
 3. Handle any conversion error.
 
 > Note: This is an introduction of how to get primitive values. There is a separate sections that is dedicated specifically to objects and how to work with them.
+
+## Optional Readings
+* [napi_typeof](https://nodejs.org/api/n-api.html#napi_typeof)
+* [napi_valuetype](https://nodejs.org/api/n-api.html#napi_valuetype)
+* [Functions to convert from Node-API to C types](https://nodejs.org/api/n-api.html#functions-to-convert-from-node-api-to-c-types)
