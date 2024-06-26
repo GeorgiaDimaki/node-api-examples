@@ -1,0 +1,12 @@
+{
+  "name": "example5",
+  "version": "1.0.0",
+  "description": "How to read Node.js binary data",
+  "main": "./bin/example.node",
+  "scripts": {
+    "test": "node test.js",
+    "postinstall": "node postinstall.js"
+  },
+  "author": "Georgia Dimaki",
+  "license": "ISC"
+}
