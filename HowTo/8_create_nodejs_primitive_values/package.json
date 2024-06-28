@@ -1,0 +1,12 @@
+{
+  "name": "example8",
+  "version": "1.0.0",
+  "description": "How to create Node.js primitive values",
+  "main": "./bin/example.node",
+  "scripts": {
+    "test": "node test.js",
+    "postinstall": "node postinstall.js"
+  },
+  "author": "Georgia Dimaki",
+  "license": "ISC"
+}
