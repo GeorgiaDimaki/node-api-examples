@@ -19,7 +19,9 @@ et voilà!
 
 There is one last note to make. There is a change an exception is thrown but you are very positive you can handle it OR you have some extra stuff to finish (and you can achieve that safely) before you return. In this case you can use the *napi_get_and_clear_last_exception* to get and clear the last exception. You can keep the error returned from the call and rethrow it later!
 
-> **Note:** The sample code demonstrated is implemented in a way that demonstrates different approaches. One thing you will notice is that the amount of code to perform error handling in place is unsustainable. The alternative proposed by the Node API documentation is the definition of a macro function. You can define your own macros, functions or whatever is more useful for your library. Regardless, it might be a good idea to define your error handling scheme early on in the development process.
+> **Note:** The sample code demonstrated is implemented in a way that demonstrates different approaches. One thing you will notice is that the amount of code to perform error handling in place is unsustainable. The alternative proposed by the Node API documentation is the definition of a macro function. You can define your own macros, functions or whatever is more useful for your library. Regardless, it might be a good idea to define your error handling scheme early on in the development process. 
+
+> In the following examples we will be using the NODE_API_CALL macro.
 
 ## Optional Readings
 * [Error Handling](https://nodejs.org/api/n-api.html#error-handling)
