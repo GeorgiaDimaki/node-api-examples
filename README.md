@@ -34,7 +34,6 @@ This might be easier to work with if you don't plan for maximum customization.
 
 </details>
 
-</br>
 
 <details>
 <summary> Command line tools </summary>
