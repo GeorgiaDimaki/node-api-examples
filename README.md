@@ -17,7 +17,7 @@ Then, this might be the place where you can get started!
 
 <details>
 <summary> C/C++ and JavaScript </summary>
-</br>
+
 
 The Node-API is an API that gives you access to JavaScript through C. You will most likely want to
 use it to expose functionality of your existing C/C++ project to JavaScript, use some preexisting
@@ -37,7 +37,7 @@ This might be easier to work with if you don't plan for maximum customization.
 
 <details>
 <summary> Command line tools </summary>
-</br>
+
 
 It is highly suggested you have some familiarity with the command line tool of your environment.
 One way or the other, even when using an IDE, you will most likely have to do some things in the
@@ -50,7 +50,7 @@ command line.
 
 <details>
 <summary> Node.js </summary>
-</br>
+
 
 Well, if you are trying to learn about the Node-API you might have guessed Node.js will be somewhat
 necessary. Node.js is an engine that allows you to run JavaScript on a computer (outside of a browser).
@@ -65,11 +65,11 @@ information on which versions support Node-API you can have a look at the [Node-
 Finally, Node installation comes automatically with npm which we will be talking about next.
 </details>
 
-</br>
+
 
 <details>
 <summary> npm </summary>
-</br>
+
 
 npm, the “Node Package Manager”, is a set of tools for creating, maintaining, and sharing JavaScript 
 modules (libraries). (Although not the only available package manager) It will be the primary tool
@@ -79,11 +79,11 @@ specific needs. You can read more about it in the [npm Docs](https://docs.npmjs.
 
 </details>
 
-</br>
+
 
 <details>
 <summary> C/C++ and Python </summary>
-</br>
+
 
 Besides Node and npm, you’ll need a set of C and C++ development tools and Python.
 
@@ -91,21 +91,19 @@ TODO
 
 </details>
 
-</br>
 
 <details>
 <summary> node-gyp </summary>
-</br>
+
 
 TODO
 
 </details>
 
-</br>
 
 <details>
 <summary> Other tools </summary>
-</br>
+
 
 * A **shell program**: This typically comes pre-installed on macOS and Linux. For Windows, you may want to consider PowerShell or cmd.
 * An **IDE**: Visual Studio Code,  WebStorm and Visual Studio are all valid choices. You can choose the one for you. I personally use Visual Studio Code and occasionally Visual Studio for its debugging environment.
